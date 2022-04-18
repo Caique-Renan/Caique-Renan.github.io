@@ -1,2 +1,2 @@
 # 1stChallengerOracleOne
-Repository for the first challenger and Oracle One project
+Repository for the first challenger on the Oracle One project
